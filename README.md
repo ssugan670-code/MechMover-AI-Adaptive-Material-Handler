@@ -180,11 +180,10 @@ MechMover follows a **Brain–Body separation** architecture across four indepen
 
 | Name | Department |
 |---|---|
-| Tharun A | Mechanical Engineering |
-| Prabhakaran R | Mechanical Engineering |
-| Sakthivel L | Mechanical Engineering |
-| Yokeshwaran S | Mechanical Engineering |
+| Sugavanam M | Electronics & Communication Engineering |
 | Nishanth M | Electronics & Communication Engineering |
+| Siva Santhosh V| Electronics & Communication Engineering |
+| Naren V T | Electronics & Communication Engineering |
 
 **Department of Mechanical Engineering, Mahendra Institute of Technology, Namakkal**
 
